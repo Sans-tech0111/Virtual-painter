@@ -1,5 +1,3 @@
-import enum
-from matplotlib.pyplot import draw
 import mediapipe as mp
 import cv2 as cv
 import numpy as np
